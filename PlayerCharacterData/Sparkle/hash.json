@@ -111,5 +111,34 @@
                 ]
             ]
         ]
+    },
+    {
+        "component_name": "IdleMask",
+        "root_vs": "",
+        "draw_vb": "d1bb0a3c",
+        "position_vb": "d1bb0a3c",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "736629ea",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "17999c91"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f806d2e4"
+                ]
+            ]
+        ]
     }
 ]

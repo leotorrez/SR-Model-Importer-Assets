@@ -125,5 +125,29 @@
                 ]
             ]
         ]
+    },
+    {
+        "component_name": "Mark",
+        "root_vs": "",
+        "draw_vb": "b81da035",
+        "position_vb": "20d10710",
+        "blend_vb": "0b654360",
+        "texcoord_vb": "6dd254ef",
+        "ib": "e60742bd",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "70bf4491"
+                ]
+            ]
+        ]
     }
 ]
