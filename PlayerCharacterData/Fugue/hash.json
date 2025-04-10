@@ -50,6 +50,16 @@
                     "Diffuse",
                     ".dds",
                     "a7def056"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "480a44cb"
+                ],
+                [
+                    "ExpressionMap",
+                    ".dds",
+                    "a5b5a9da"
                 ]
             ],
             []
@@ -108,6 +118,35 @@
                     "LightMap",
                     ".dds",
                     "1a4bb45d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Tail",
+        "root_vs": "",
+        "draw_vb": "a90245f5",
+        "position_vb": "f917214d",
+        "blend_vb": "eb2187f4",
+        "texcoord_vb": "4442fc34",
+        "ib": "de3690cf",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c8c720e6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f3b4612a"
                 ]
             ]
         ]
